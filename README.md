@@ -1,15 +1,17 @@
 # Hi, I'm Avinash Chauhan 👋
 
-### Undergraduate Researcher | Mathematical Modeling & AI Engineering
-I'm a student at **IISER TVM** specializing in Mathematics and Machine Learning. My work focuses on deep learning, numerical analysis, and stochastic processes.
+### Quantitative Strategist & Mathematics Undergraduate
 
-- 🔭 **Current Focus:** Deep Learning for medical imaging and ecological simulations.
-- 🛠️ **Technical Arsenal:** Python, C++, MATLAB, PyTorch, TensorFlow.
-- 📄 **Portfolio:** [avihan-oss.github.io](https://avihan-oss.github.io)
+I am a BS-MS student specializing in **i2 Mathematics** at **IISER Thiruvananthapuram**. My work bridges rigorous mathematical frameworks with practical corporate business applications, focusing heavily on quantitative finance, stochastic processes, and developing robust trading models.
+
+- 🔭 **Current Focus:** Reinforcement Learning (SAC) for Market Making, Classical-Quantum Machine Learning, and Algorithmic Problem Solving using vanilla Python.
+- 🛠️ **Technical Arsenal:** Python, C++, SQL, PyTorch, TensorFlow, PennyLane, R.
+- 📈 **Domain Expertise:** Quantitative Finance, Game Theory, High-Frequency Trading (HFT) modeling, and Data Science.
+- 🌐 **Portfolio:** [avinash-chauhan-oss.github.io](https://avinash-chauhan-oss.github.io)
 - 📫 **Contact:** avinash23@iisertvm.ac.in
 
 ---
 
-* 📄 **CV:** [Download/View My CV](./documents/CV_Avinash_Chauhan.pdf)
-
-
+### ⚡ Quick Links
+- 📄 **View My Full CV:** [avinash-chauhan-oss.github.io/cv](https://avinash-chauhan-oss.github.io/cv)
+- 📊 **Featured Research:** Market Making with RL, Quantum Classifiers, and Alpha Development.
